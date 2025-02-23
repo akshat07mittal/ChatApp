@@ -5,9 +5,13 @@ ChatApp is built with a focus on speed, simplicity, and real-time performance. I
 
 ## Features
 Real-Time Messaging: Instant message delivery with a dynamic user interface.
+
 Multiple Chat Rooms: Support for public channels and private groups.
+
 User Authentication: Secure login and registration using modern authentication practices.
+
 Responsive Design: Works on desktop and mobile devices.
+
 Extensibility: Designed for easy customization and integration with third-party services.
 
 ## Prerequisites
