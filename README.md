@@ -17,8 +17,8 @@ Extensibility: Designed for easy customization and integration with third-party 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-Node.js (v12 or later) installed on your machine.
+1. Node.js (v12 or later) installed on your machine.
 
-npm (Node Package Manager) or yarn installed.
+2. npm (Node Package Manager) or yarn installed.
 
-A working internet connection.
+3. A working internet connection.
