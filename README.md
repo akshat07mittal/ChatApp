@@ -1,13 +1,18 @@
+ChatApp is a modern, real-time messaging application designed to help users connect and communicate seamlessly. This repository contains all the code, documentation, and configuration needed to get ChatApp up and running on your machine.
 
-## Real time chat
-Build a simple chat applications using raw websockets in Node.js that supports the following features - 
+## Overview
+ChatApp is built with a focus on speed, simplicity, and real-time performance. It supports multiple chat channels, private messaging, and a responsive user interface. The application is designed to be easily extendable, allowing developers to add new features or integrate additional services.
 
- - Allow an admin to create a new chat session/room. Admin should be allowed to set the following properties on the room - 
-  - Name
-  - start_time
-  - is_open 
-  - cool_down_time
- - Allow a users to join the room and send messages
- - Allow users to upvote chat messages.
- - If chat messages reach more than 3 upvotes, move them over to a saparate section.
- - If chat messages reach more than 10 upvotes, alert the admin to answer.
+## Features
+Real-Time Messaging: Instant message delivery with a dynamic user interface.
+Multiple Chat Rooms: Support for public channels and private groups.
+User Authentication: Secure login and registration using modern authentication practices.
+Responsive Design: Works on desktop and mobile devices.
+Extensibility: Designed for easy customization and integration with third-party services.
+
+## Prerequisites
+Before you begin, ensure you have met the following requirements:
+
+Node.js (v12 or later) installed on your machine.
+npm (Node Package Manager) or yarn installed.
+A working internet connection.
